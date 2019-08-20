@@ -1,0 +1,26 @@
+.block {
+    width: 100px;
+    height: 100px;
+    border: 1px solid grey;
+}
+
+.wrapper {
+    border: 1px solid red;
+    width: 340px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.color {
+    background-color: rgba(232, 249, 94, 0.5);
+}
+
+h4 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 366px;
+    margin-top: 100px;
+}
